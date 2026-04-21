@@ -7,15 +7,15 @@ Customer churn is a major challenge for banks, as losing customers directly impa
 The goal is to understand why customers leave and help the bank improve retention strategies.
 
 ## 🎯Objectives:
-Identify patterns and trends in customer churn.
+- Identify patterns and trends in customer churn.
 
-Analyze customer demographics and behavior.
+- Analyze customer demographics and behavior.
 
-Detect key factors influencing churn.
+- Detect key factors influencing churn.
 
-Build insights for improving customer retention.
+- Build insights for improving customer retention.
 
-## Data sources:
+## 📂Data sources:
 Banking / Financial Services
 
 Hugging Face (SunnyShaurya – Bank Customer Churn Dataset)
